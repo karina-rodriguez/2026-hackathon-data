@@ -61,6 +61,9 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 episodes: 
 - introduction.Rmd
 - scenarios.Rmd
+- emergency.Rmd
+- planning.Rmd
+- ageing.Rmd
 
 # Information for Learners
 learners: 
