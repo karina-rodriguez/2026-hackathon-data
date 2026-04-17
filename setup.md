@@ -20,6 +20,9 @@ Information on how to upload additional datasets can be found in this resource:
 
 ## Data Sets
 
+Some datasets involved in these scenarios have already been made available in this Google Drive: [https://drive.google.com/drive/folders/1hOVCV92yWr_ZMNBFjW94NLsqCyeu9NeK](https://drive.google.com/drive/folders/1hOVCV92yWr_ZMNBFjW94NLsqCyeu9NeK)
+
+
 ## ADS Datasets
 
 ### CITiZAN: the Coastal and Intertidal Zone Archaeological Network
